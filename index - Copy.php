@@ -150,8 +150,7 @@
 								<li class="color-preview" title="Sky" style="background-color:#a5def8;"></li>
 								<li class="color-preview" title="Antique Sapphire" style="background-color:#0f77c0;"></li>
 								<li class="color-preview" title="Heather Navy" style="background-color:#3469b7;"></li>							
-								<li class="color-preview" title="Cherry Red" style="background-color:#c50404;"></li>
-                                	<li class="color-preview" title="Scrub Green" style="background-color:#13afa2;"></li>
+								<	<li class="color-preview" title="Scrub Green" style="background-color:#13afa2;"></li>
 								<li class="color-preview" title="Teal Ice" style="background-color:#b8d5d7;"></li>
 								<li class="color-preview" title="Heather Sapphire" style="background-color:#15aeda;"></li>
 								<li class="color-preview" title="Sky" style="background-color:#a5def8;"></li>
