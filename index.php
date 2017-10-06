@@ -243,10 +243,7 @@
 				<!--	EDITOR      -->	
 			
 				<form method="POST" enctype="multipart/form-data" action="save.php" id="form1">	
-					
-					<!--<div id="shirtDiv" class="page" style="width: 530px; height: 630px; position: relative; background-color: <?php echo $_SESSION['color']; ?>;">-->
-					
-					<div id="shirtDiv" class="page" style="width: 421px; height: 482px; position: relative;margin-left: 57px; background-color: <?php echo $_SESSION['color']; ?>;;">
+				<div id="shirtDiv" class="page" style="width: 421px; height: 482px; position: relative;margin-left: 57px; background-color: rgb(255, 255, 255);">
 					
 						<img id="tshirtFacing" src="img/crew_front.png"></img>
 						<div id="drawingArea" style="position: absolute;top: 100px;left: 160px;z-index: 10;width: 200px;height: 400px;">					
